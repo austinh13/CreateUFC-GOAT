@@ -99,11 +99,8 @@ const toOvr = (composite) => clamp(Math.round(26 + composite * 0.76), 5, 99);
 
 // ─── Tiers ─────────────────────────────────────────────────────────────────────
 /**
- * Ordered high to low. `perfect` is its own gate above the ladder rather than a
- * plain threshold: reaching it requires both a genuinely elite build (every tool
- * above the floor penalty band, at least four truly elite) AND a top-tier luck roll,
- * so it stays a rare outcome that a strong build can just barely miss on a bad night
- * rather than something a min-maxed build unlocks automatically.
+ * Ordered high to low, plain threshold lookup — composite alone decides the tier,
+ * `goat` included. No separate gate on top of the ladder.
  */
 /**
  * Thresholds are fitted to the actual composite distribution the fighter pool
@@ -115,9 +112,9 @@ const toOvr = (composite) => clamp(Math.round(26 + composite * 0.76), 5, 99);
  * what buys the top of the ladder.
  */
 export const TIER_LADDER = [
-  { id: 'goat',       min: 999, title: 'The GOAT Run',       wl: [29, 32, 0, 0], belts: 3, defenses: [10, 16],
+  { id: 'goat',       min: 95, title: 'The GOAT Run',       wl: [29, 32, 0, 0], belts: 3, defenses: [10, 16],
     story: 'Every tool held. Nobody found the seam, and the judges never got a say.' },
-  { id: 'undisputed', min: 89,  title: 'Undisputed Champion', wl: [22, 27, 1, 2], belts: 2, defenses: [5, 9],
+  { id: 'undisputed', min: 90,  title: 'Undisputed Champion', wl: [22, 27, 1, 2], belts: 2, defenses: [5, 9],
     story: 'You didn’t just win the belt — you defended it until people stopped doubting the build.' },
   { id: 'champion',   min: 84,  title: 'UFC Champion',        wl: [18, 22, 3, 4], belts: 1, defenses: [1, 3],
     story: 'Gold, eventually. It took the full six tools working together to get there.' },
@@ -127,25 +124,14 @@ export const TIER_LADDER = [
     story: 'A real career — ranked, respected, and never quite in title position.' },
   { id: 'gatekeeper', min: 66,  title: 'Division Gatekeeper', wl: [8, 12, 9, 13], belts: 0, defenses: [0, 0],
     story: 'The fight everyone wants before a title run. You told a lot of prospects the truth about themselves.' },
-  { id: 'journeyman', min: 58,  title: 'Journeyman',          wl: [5, 9, 10, 15], belts: 0, defenses: [0, 0],
+  { id: 'journeyman', min: 62,  title: 'Journeyman',          wl: [5, 9, 10, 15], belts: 0, defenses: [0, 0],
     story: 'You stayed employed on toughness alone. The judges saw more of your build’s gaps than its strengths.' },
-  { id: 'bust',       min: 0,   title: 'Cut From the Roster', wl: [2, 5, 6, 10], belts: 0, defenses: [0, 0],
+  { id: 'bust',       min: 50,   title: 'Cut From the Roster', wl: [2, 5, 6, 10], belts: 0, defenses: [0, 0],
     story: 'The tools never came together. A short, rough run and a release.' },
 ];
 
-// Verified at ~2% of skilled (greedy-strategy) builds — rare enough to feel earned,
-// not so rare it reads as unreachable. Every condition has to hold at once: a
-// top-of-the-ladder composite, a floor that never dips below A-, at least three
-// genuinely elite tools, and a luck roll in the top 10%.
-const PERFECT_GATE = { minComposite: 95, minFloor: 88, minElite: 3, minLuck: 90 };
-
-export const resolveTier = ({ composite, floor, eliteCount, luck }) => {
-  if (composite >= PERFECT_GATE.minComposite && floor >= PERFECT_GATE.minFloor
-      && eliteCount >= PERFECT_GATE.minElite && luck >= PERFECT_GATE.minLuck) {
-    return TIER_LADDER[0];
-  }
-  return TIER_LADDER.find(t => t.id !== 'goat' && composite >= t.min) ?? TIER_LADDER[TIER_LADDER.length - 1];
-};
+export const resolveTier = ({ composite }) =>
+  TIER_LADDER.find(t => composite >= t.min) ?? TIER_LADDER[TIER_LADDER.length - 1];
 
 // ─── Record generation ─────────────────────────────────────────────────────────
 const spread = (rng, [lo, hi]) => lo + Math.round(rng.next() * (hi - lo));

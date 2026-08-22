@@ -50,7 +50,7 @@ export const TOOL_META = {
 export const GRADES = ['S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D+', 'D'];
 
 export const GRADE_SCORE = {
-  S: 99, 'A+': 96, A: 92, 'A-': 88, 'B+': 84, B: 79, 'B-': 74,
+  S: 99, 'A+': 98, A: 93, 'A-': 90, 'B+': 86, B: 80, 'B-': 76,
   'C+': 69, C: 63, 'C-': 57, 'D+': 50, D: 42,
 };
 
@@ -76,7 +76,7 @@ export const scoreForGrade = (grade) => GRADE_SCORE[grade] ?? 60;
 // A weak tool costs more than a strong one gains — a build lives or dies on its
 // floor, not its ceiling, which is the whole tension of choosing what to steal.
 export const TOOL_WEIGHT = {
-  Striking: 1.1, Chin: 1.2, Power: 1.1, Wrestling: 1.0, Submissions: 0.95, Cardio: 0.95,
+  Striking: 1.1, Chin: 1.1, Power: 1.1, Wrestling: 1.1, Submissions: 1, Cardio: 1,
 };
 
 export const ROUNDS = TOOLS.length;
