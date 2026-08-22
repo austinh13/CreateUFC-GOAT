@@ -1,0 +1,4805 @@
+{
+  "results": [
+    {
+      "name": "Demetrious Johnson",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "A+",
+        "Submissions": "A",
+        "Cardio": "S",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C+",
+        "Submissions": "C-",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.43",
+        "StrAcc": "54",
+        "StrDef": "67",
+        "TDAvg": "3.35",
+        "TDAcc": "56",
+        "TDDef": "65",
+        "SubAvg": "0.5",
+        "record": "27-3-1"
+      }
+    },
+    {
+      "name": "Deiveson Figueiredo",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A",
+        "Wrestling": "B+",
+        "Submissions": "B+",
+        "Cardio": "B+",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "A-",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.09",
+        "StrAcc": "55",
+        "StrDef": "51",
+        "TDAvg": "1.44",
+        "TDAcc": "42",
+        "TDDef": "57",
+        "SubAvg": "1.8",
+        "record": "21-3-1"
+      }
+    },
+    {
+      "name": "Brandon Moreno",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "B",
+        "Submissions": "A",
+        "Cardio": "A",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.8",
+        "StrAcc": "43",
+        "StrDef": "56",
+        "TDAvg": "1.73",
+        "TDAcc": "45",
+        "TDDef": "64",
+        "SubAvg": "0.5",
+        "record": "21-7-2"
+      }
+    },
+    {
+      "name": "Alexandre Pantoja",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "A-",
+        "Submissions": "A",
+        "Cardio": "A-",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "C+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.41",
+        "StrAcc": "48",
+        "StrDef": "51",
+        "TDAvg": "1.75",
+        "TDAcc": "44",
+        "TDDef": "66",
+        "SubAvg": "1.0",
+        "record": "26-5-0"
+      }
+    },
+    {
+      "name": "Henry Cejudo",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "A+",
+        "Submissions": "B+",
+        "Cardio": "B+",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.93",
+        "StrAcc": "47",
+        "StrDef": "60",
+        "TDAvg": "2.07",
+        "TDAcc": "34",
+        "TDDef": "83",
+        "SubAvg": "0.2",
+        "record": "16-3-0"
+      }
+    },
+    {
+      "name": "Joseph Benavidez",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B+",
+        "Wrestling": "B+",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "C-",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.52",
+        "StrAcc": "34",
+        "StrDef": "61",
+        "TDAvg": "1.41",
+        "TDAcc": "30",
+        "TDDef": "62",
+        "SubAvg": "0.6",
+        "record": "28-8-0"
+      }
+    },
+    {
+      "name": "Kai Kara-France",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A-",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.57",
+        "StrAcc": "39",
+        "StrDef": "65",
+        "TDAvg": "0.63",
+        "TDAcc": "33",
+        "TDDef": "88",
+        "SubAvg": "0.0",
+        "record": "24-11-0"
+      }
+    },
+    {
+      "name": "Sergio Pettis",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.88",
+        "StrAcc": "37",
+        "StrDef": "65",
+        "TDAvg": "0.85",
+        "TDAcc": "40",
+        "TDDef": "67",
+        "SubAvg": "0.4",
+        "record": "18-5-0"
+      }
+    },
+    {
+      "name": "Tim Elliott",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C+",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "A",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.47",
+        "StrAcc": "44",
+        "StrDef": "56",
+        "TDAvg": "3.88",
+        "TDAcc": "47",
+        "TDDef": "60",
+        "SubAvg": "0.9",
+        "record": "20-12-1"
+      }
+    },
+    {
+      "name": "Matt Schnell",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B",
+        "Submissions": "B+",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "C+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.24",
+        "StrAcc": "39",
+        "StrDef": "55",
+        "TDAvg": "0.63",
+        "TDAcc": "44",
+        "TDDef": "46",
+        "SubAvg": "1.1",
+        "record": "16-7-0"
+      }
+    },
+    {
+      "name": "David Dvořák",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.48",
+        "StrAcc": "43",
+        "StrDef": "59",
+        "TDAvg": "0.58",
+        "TDAcc": "30",
+        "TDDef": "70",
+        "SubAvg": "0.2",
+        "record": "20-6-0"
+      }
+    },
+    {
+      "name": "Su Mudaerji",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "B",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.83",
+        "StrAcc": "54",
+        "StrDef": "62",
+        "TDAvg": "0.32",
+        "TDAcc": "100",
+        "TDDef": "66",
+        "SubAvg": "0.6",
+        "record": "16-5-0"
+      }
+    },
+    {
+      "name": "Cody Durden",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C-",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "B-",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "B+",
+        "Submissions": "D+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.13",
+        "StrAcc": "49",
+        "StrDef": "52",
+        "TDAvg": "5.41",
+        "TDAcc": "50",
+        "TDDef": "80",
+        "SubAvg": "0.4",
+        "record": "16-4-1"
+      }
+    },
+    {
+      "name": "Jake Hadley",
+      "division": "Men's Flyweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D",
+        "Submissions": "S",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.42",
+        "StrAcc": "44",
+        "StrDef": "60",
+        "TDAvg": "0.32",
+        "TDAcc": "25",
+        "TDDef": "35",
+        "SubAvg": "2.2",
+        "record": "10-2-0"
+      }
+    },
+    {
+      "name": "Aljamain Sterling",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "A",
+        "Submissions": "A",
+        "Cardio": "A+",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.73",
+        "StrAcc": "52",
+        "StrDef": "58",
+        "TDAvg": "1.97",
+        "TDAcc": "24",
+        "TDDef": "45",
+        "SubAvg": "0.8",
+        "record": "23-4-0"
+      }
+    },
+    {
+      "name": "Petr Yan",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A-",
+        "Wrestling": "A-",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.03",
+        "StrAcc": "53",
+        "StrDef": "59",
+        "TDAvg": "1.71",
+        "TDAcc": "52",
+        "TDDef": "85",
+        "SubAvg": "0.1",
+        "record": "16-5-0"
+      }
+    },
+    {
+      "name": "Sean O’Malley",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "A+",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "A",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "7.25",
+        "StrAcc": "61",
+        "StrDef": "61",
+        "TDAvg": "0.43",
+        "TDAcc": "42",
+        "TDDef": "62",
+        "SubAvg": "0.4",
+        "record": "17-1-0"
+      }
+    },
+    {
+      "name": "Merab Dvalishvili",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C+",
+        "Wrestling": "S",
+        "Submissions": "B+",
+        "Cardio": "S",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "B+",
+        "Submissions": "D+",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.46",
+        "StrAcc": "41",
+        "StrDef": "56",
+        "TDAvg": "6.55",
+        "TDAcc": "36",
+        "TDDef": "78",
+        "SubAvg": "0.3",
+        "record": "16-4-0"
+      }
+    },
+    {
+      "name": "Cory Sandhagen",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.33",
+        "StrAcc": "44",
+        "StrDef": "58",
+        "TDAvg": "1.36",
+        "TDAcc": "33",
+        "TDDef": "64",
+        "SubAvg": "0.3",
+        "record": "17-4-0"
+      }
+    },
+    {
+      "name": "Dominick Cruz",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B-",
+        "Wrestling": "A",
+        "Submissions": "B",
+        "Cardio": "A",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C+",
+        "Submissions": "D",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.91",
+        "StrAcc": "33",
+        "StrDef": "70",
+        "TDAvg": "2.82",
+        "TDAcc": "42",
+        "TDDef": "83",
+        "SubAvg": "0.1",
+        "record": "24-4-0"
+      }
+    },
+    {
+      "name": "T.J. Dillashaw",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A-",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.09",
+        "StrAcc": "41",
+        "StrDef": "62",
+        "TDAvg": "1.56",
+        "TDAcc": "30",
+        "TDDef": "77",
+        "SubAvg": "0.8",
+        "record": "18-5-0"
+      }
+    },
+    {
+      "name": "Renan Barão",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A-",
+        "Wrestling": "B+",
+        "Submissions": "B+",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.78",
+        "StrAcc": "36",
+        "StrDef": "57",
+        "TDAvg": "1.49",
+        "TDAcc": "41",
+        "TDDef": "91",
+        "SubAvg": "0.5",
+        "record": "34-9-0"
+      }
+    },
+    {
+      "name": "Marlon Vera",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "B+",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.37",
+        "StrAcc": "50",
+        "StrDef": "51",
+        "TDAvg": "0.58",
+        "TDAcc": "39",
+        "TDDef": "70",
+        "SubAvg": "0.9",
+        "record": "21-8-1"
+      }
+    },
+    {
+      "name": "Rob Font",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.71",
+        "StrAcc": "45",
+        "StrDef": "57",
+        "TDAvg": "0.96",
+        "TDAcc": "37",
+        "TDDef": "46",
+        "SubAvg": "0.4",
+        "record": "20-7-0"
+      }
+    },
+    {
+      "name": "Chris Gutierrez",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B-",
+        "Wrestling": "C",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.75",
+        "StrAcc": "58",
+        "StrDef": "64",
+        "TDAvg": "0.38",
+        "TDAcc": "37",
+        "TDDef": "74",
+        "SubAvg": "0.1",
+        "record": "19-5-2"
+      }
+    },
+    {
+      "name": "Adrian Yanez",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "A-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.75",
+        "StrAcc": "40",
+        "StrDef": "59",
+        "TDAvg": "0.0",
+        "TDAcc": "0",
+        "TDDef": "100",
+        "SubAvg": "0.0",
+        "record": "16-4-0"
+      }
+    },
+    {
+      "name": "Ricky Simon",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "B-",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "B+",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.01",
+        "StrAcc": "44",
+        "StrDef": "62",
+        "TDAvg": "5.84",
+        "TDAcc": "50",
+        "TDDef": "75",
+        "SubAvg": "0.4",
+        "record": "20-4-0"
+      }
+    },
+    {
+      "name": "Brian Kelleher",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C+",
+        "Wrestling": "C",
+        "Submissions": "B-",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.36",
+        "StrAcc": "41",
+        "StrDef": "54",
+        "TDAvg": "1.79",
+        "TDAcc": "42",
+        "TDDef": "60",
+        "SubAvg": "0.7",
+        "record": "24-14-0"
+      }
+    },
+    {
+      "name": "Da’Mon Blackshear",
+      "division": "Men's Bantamweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C-",
+        "Wrestling": "C+",
+        "Submissions": "B",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.28",
+        "StrAcc": "47",
+        "StrDef": "48",
+        "TDAvg": "2.34",
+        "TDAcc": "37",
+        "TDDef": "66",
+        "SubAvg": "0.8",
+        "record": "14-6-1"
+      }
+    },
+    {
+      "name": "Alexander Volkanovski",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A",
+        "Wrestling": "A-",
+        "Submissions": "B+",
+        "Cardio": "A+",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.25",
+        "StrAcc": "56",
+        "StrDef": "58",
+        "TDAvg": "1.86",
+        "TDAcc": "37",
+        "TDDef": "69",
+        "SubAvg": "0.2",
+        "record": "26-2-0"
+      }
+    },
+    {
+      "name": "Max Holloway",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "S",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "S",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "A",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "7.17",
+        "StrAcc": "47",
+        "StrDef": "59",
+        "TDAvg": "0.27",
+        "TDAcc": "53",
+        "TDDef": "84",
+        "SubAvg": "0.3",
+        "record": "25-7-0"
+      }
+    },
+    {
+      "name": "José Aldo",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A+",
+        "Wrestling": "A-",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.57",
+        "StrAcc": "46",
+        "StrDef": "60",
+        "TDAvg": "0.49",
+        "TDAcc": "54",
+        "TDDef": "91",
+        "SubAvg": "0.1",
+        "record": "31-8-0"
+      }
+    },
+    {
+      "name": "Ilia Topuria",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A+",
+        "Wrestling": "B+",
+        "Submissions": "B+",
+        "Cardio": "B+",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C+",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.44",
+        "StrAcc": "46",
+        "StrDef": "67",
+        "TDAvg": "2.19",
+        "TDAcc": "56",
+        "TDDef": "92",
+        "SubAvg": "1.5",
+        "record": "14-0-0"
+      }
+    },
+    {
+      "name": "Brian Ortega",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "B",
+        "Submissions": "S",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "B-",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.19",
+        "StrAcc": "38",
+        "StrDef": "49",
+        "TDAvg": "0.95",
+        "TDAcc": "23",
+        "TDDef": "56",
+        "SubAvg": "1.2",
+        "record": "15-3-0"
+      }
+    },
+    {
+      "name": "Yair Rodríguez",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "B-",
+        "Submissions": "B+",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.63",
+        "StrAcc": "46",
+        "StrDef": "51",
+        "TDAvg": "0.73",
+        "TDAcc": "28",
+        "TDDef": "59",
+        "SubAvg": "0.7",
+        "record": "16-4-0"
+      }
+    },
+    {
+      "name": "Frankie Edgar",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B-",
+        "Wrestling": "A",
+        "Submissions": "B+",
+        "Cardio": "A+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.77",
+        "StrAcc": "40",
+        "StrDef": "65",
+        "TDAvg": "2.29",
+        "TDAcc": "31",
+        "TDDef": "65",
+        "SubAvg": "0.3",
+        "record": "23-11-1"
+      }
+    },
+    {
+      "name": "Zabit Magomedsharipov",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "A-",
+        "Submissions": "A",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "B+",
+        "Submissions": "C",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.89",
+        "StrAcc": "48",
+        "StrDef": "64",
+        "TDAvg": "5.22",
+        "TDAcc": "56",
+        "TDDef": "77",
+        "SubAvg": "0.8",
+        "record": "18-1-0"
+      }
+    },
+    {
+      "name": "Chan Sung Jung",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "A-",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.93",
+        "StrAcc": "41",
+        "StrDef": "52",
+        "TDAvg": "0.7",
+        "TDAcc": "44",
+        "TDDef": "72",
+        "SubAvg": "0.6",
+        "record": "17-8-0"
+      }
+    },
+    {
+      "name": "Dan Ige",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "B+",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.76",
+        "StrAcc": "45",
+        "StrDef": "57",
+        "TDAvg": "1.07",
+        "TDAcc": "26",
+        "TDDef": "58",
+        "SubAvg": "0.3",
+        "record": "17-7-0"
+      }
+    },
+    {
+      "name": "Calvin Kattar",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.12",
+        "StrAcc": "39",
+        "StrDef": "54",
+        "TDAvg": "0.42",
+        "TDAcc": "29",
+        "TDDef": "91",
+        "SubAvg": "0.1",
+        "record": "23-7-0"
+      }
+    },
+    {
+      "name": "Sodiq Yusuff",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "D+",
+        "Submissions": "C-",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.29",
+        "StrAcc": "49",
+        "StrDef": "57",
+        "TDAvg": "0.18",
+        "TDAcc": "12",
+        "TDDef": "70",
+        "SubAvg": "0.6",
+        "record": "13-2-0"
+      }
+    },
+    {
+      "name": "Giga Chikadze",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.08",
+        "StrAcc": "43",
+        "StrDef": "62",
+        "TDAvg": "0.23",
+        "TDAcc": "33",
+        "TDDef": "69",
+        "SubAvg": "0.2",
+        "record": "15-3-0"
+      }
+    },
+    {
+      "name": "Nate Landwehr",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "B-",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.14",
+        "StrAcc": "46",
+        "StrDef": "55",
+        "TDAvg": "1.07",
+        "TDAcc": "41",
+        "TDDef": "86",
+        "SubAvg": "1.1",
+        "record": "17-5-0"
+      }
+    },
+    {
+      "name": "Herbert Burns",
+      "division": "Men's Featherweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C",
+        "Wrestling": "B-",
+        "Submissions": "B",
+        "Cardio": "C+",
+        "Chin": "C-"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "B",
+        "Submissions": "S",
+        "Cardio": "D",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "1.61",
+        "StrAcc": "51",
+        "StrDef": "30",
+        "TDAvg": "3.92",
+        "TDAcc": "75",
+        "TDDef": "60",
+        "SubAvg": "3.3",
+        "record": "11-4-0"
+      }
+    },
+    {
+      "name": "Khabib Nurmagomedov",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B+",
+        "Wrestling": "S",
+        "Submissions": "A",
+        "Cardio": "A+",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "B+",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.1",
+        "StrAcc": "48",
+        "StrDef": "65",
+        "TDAvg": "5.32",
+        "TDAcc": "48",
+        "TDDef": "84",
+        "SubAvg": "0.8",
+        "record": "29-0-0"
+      }
+    },
+    {
+      "name": "Islam Makhachev",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "S",
+        "Submissions": "A",
+        "Cardio": "A+",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.35",
+        "StrAcc": "59",
+        "StrDef": "61",
+        "TDAvg": "3.24",
+        "TDAcc": "62",
+        "TDDef": "90",
+        "SubAvg": "1.1",
+        "record": "24-1-0"
+      }
+    },
+    {
+      "name": "Charles Oliveira",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "S",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "S",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.54",
+        "StrAcc": "53",
+        "StrDef": "51",
+        "TDAvg": "2.32",
+        "TDAcc": "40",
+        "TDDef": "55",
+        "SubAvg": "2.7",
+        "record": "34-9-0"
+      }
+    },
+    {
+      "name": "Justin Gaethje",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "S",
+        "Wrestling": "B",
+        "Submissions": "B-",
+        "Cardio": "A-",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "A",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "7.35",
+        "StrAcc": "60",
+        "StrDef": "53",
+        "TDAvg": "0.13",
+        "TDAcc": "25",
+        "TDDef": "75",
+        "SubAvg": "0.0",
+        "record": "25-4-0"
+      }
+    },
+    {
+      "name": "Conor McGregor",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A+",
+        "Wrestling": "B-",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.32",
+        "StrAcc": "49",
+        "StrDef": "54",
+        "TDAvg": "0.67",
+        "TDAcc": "55",
+        "TDDef": "66",
+        "SubAvg": "0.1",
+        "record": "22-6-0"
+      }
+    },
+    {
+      "name": "Dustin Poirier",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A",
+        "Wrestling": "B",
+        "Submissions": "A-",
+        "Cardio": "A",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C-",
+        "Submissions": "B-",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.49",
+        "StrAcc": "50",
+        "StrDef": "53",
+        "TDAvg": "1.36",
+        "TDAcc": "36",
+        "TDDef": "63",
+        "SubAvg": "1.2",
+        "record": "29-8-0"
+      }
+    },
+    {
+      "name": "Michael Chandler",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.89",
+        "StrAcc": "46",
+        "StrDef": "46",
+        "TDAvg": "2.17",
+        "TDAcc": "38",
+        "TDDef": "71",
+        "SubAvg": "0.9",
+        "record": "23-8-0"
+      }
+    },
+    {
+      "name": "Tony Ferguson",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "B+",
+        "Submissions": "A-",
+        "Cardio": "S",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "D+",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.98",
+        "StrAcc": "45",
+        "StrDef": "56",
+        "TDAvg": "0.42",
+        "TDAcc": "35",
+        "TDDef": "66",
+        "SubAvg": "0.9",
+        "record": "26-9-0"
+      }
+    },
+    {
+      "name": "Nate Diaz",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "B-",
+        "Submissions": "A-",
+        "Cardio": "A+",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "B-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.57",
+        "StrAcc": "45",
+        "StrDef": "52",
+        "TDAvg": "1.05",
+        "TDAcc": "30",
+        "TDDef": "41",
+        "SubAvg": "1.3",
+        "record": "22-13-0"
+      }
+    },
+    {
+      "name": "Arman Tsarukyan",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "A-",
+        "Submissions": "B+",
+        "Cardio": "A",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C+",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.82",
+        "StrAcc": "48",
+        "StrDef": "54",
+        "TDAvg": "3.43",
+        "TDAcc": "36",
+        "TDDef": "75",
+        "SubAvg": "0.0",
+        "record": "20-3-0"
+      }
+    },
+    {
+      "name": "Bobby Green",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "A-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.14",
+        "StrAcc": "52",
+        "StrDef": "62",
+        "TDAvg": "1.21",
+        "TDAcc": "37",
+        "TDDef": "74",
+        "SubAvg": "0.3",
+        "record": "30-14-1"
+      }
+    },
+    {
+      "name": "Drew Dober",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.48",
+        "StrAcc": "39",
+        "StrDef": "51",
+        "TDAvg": "0.69",
+        "TDAcc": "17",
+        "TDDef": "56",
+        "SubAvg": "0.1",
+        "record": "26-12-0"
+      }
+    },
+    {
+      "name": "Jim Miller",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C+",
+        "Wrestling": "B",
+        "Submissions": "A-",
+        "Cardio": "B+",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "A-",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.86",
+        "StrAcc": "41",
+        "StrDef": "58",
+        "TDAvg": "1.56",
+        "TDAcc": "43",
+        "TDDef": "48",
+        "SubAvg": "1.8",
+        "record": "36-17-0"
+      }
+    },
+    {
+      "name": "Clay Guida",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "A-",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C+",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.63",
+        "StrAcc": "33",
+        "StrDef": "61",
+        "TDAvg": "3.16",
+        "TDAcc": "36",
+        "TDDef": "69",
+        "SubAvg": "0.6",
+        "record": "38-20-0"
+      }
+    },
+    {
+      "name": "Terrance McKinney",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B+",
+        "Wrestling": "C-",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.03",
+        "StrAcc": "51",
+        "StrDef": "45",
+        "TDAvg": "3.56",
+        "TDAcc": "36",
+        "TDDef": "85",
+        "SubAvg": "1.0",
+        "record": "14-5-0"
+      }
+    },
+    {
+      "name": "Joe Lauzon",
+      "division": "Men's Lightweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "B",
+        "Cardio": "C+",
+        "Chin": "C-"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C",
+        "Submissions": "A",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.84",
+        "StrAcc": "39",
+        "StrDef": "54",
+        "TDAvg": "2.39",
+        "TDAcc": "45",
+        "TDDef": "54",
+        "SubAvg": "2.0",
+        "record": "28-16-0"
+      }
+    },
+    {
+      "name": "Georges St-Pierre",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A",
+        "Power": "B+",
+        "Wrestling": "S",
+        "Submissions": "A-",
+        "Cardio": "A",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "B+",
+        "Submissions": "C+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.78",
+        "StrAcc": "53",
+        "StrDef": "72",
+        "TDAvg": "4.16",
+        "TDAcc": "74",
+        "TDDef": "83",
+        "SubAvg": "1.1",
+        "record": "26-2-0"
+      }
+    },
+    {
+      "name": "Kamaru Usman",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A",
+        "Wrestling": "A+",
+        "Submissions": "B+",
+        "Cardio": "A",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "B-",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.46",
+        "StrAcc": "52",
+        "StrDef": "54",
+        "TDAvg": "2.96",
+        "TDAcc": "45",
+        "TDDef": "97",
+        "SubAvg": "0.1",
+        "record": "20-3-0"
+      }
+    },
+    {
+      "name": "Leon Edwards",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A-",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "A-",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.8",
+        "StrAcc": "53",
+        "StrDef": "53",
+        "TDAvg": "1.26",
+        "TDAcc": "33",
+        "TDDef": "69",
+        "SubAvg": "0.3",
+        "record": "21-3-0"
+      }
+    },
+    {
+      "name": "Belal Muhammad",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "A",
+        "Submissions": "B+",
+        "Cardio": "A+",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.55",
+        "StrAcc": "43",
+        "StrDef": "57",
+        "TDAvg": "1.98",
+        "TDAcc": "35",
+        "TDDef": "93",
+        "SubAvg": "0.2",
+        "record": "23-3-0"
+      }
+    },
+    {
+      "name": "Colby Covington",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "A+",
+        "Submissions": "B",
+        "Cardio": "S",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "B-",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.1",
+        "StrAcc": "39",
+        "StrDef": "55",
+        "TDAvg": "4.05",
+        "TDAcc": "45",
+        "TDDef": "72",
+        "SubAvg": "0.2",
+        "record": "17-3-0"
+      }
+    },
+    {
+      "name": "Nick Diaz",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "B-",
+        "Submissions": "A-",
+        "Cardio": "A+",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C-",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.71",
+        "StrAcc": "42",
+        "StrDef": "59",
+        "TDAvg": "1.28",
+        "TDAcc": "32",
+        "TDDef": "60",
+        "SubAvg": "1.0",
+        "record": "26-10-0"
+      }
+    },
+    {
+      "name": "Robbie Lawler",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A+",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "B+",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.85",
+        "StrAcc": "47",
+        "StrDef": "59",
+        "TDAvg": "0.65",
+        "TDAcc": "64",
+        "TDDef": "65",
+        "SubAvg": "0.0",
+        "record": "30-16-0"
+      }
+    },
+    {
+      "name": "Tyron Woodley",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.36",
+        "StrAcc": "48",
+        "StrDef": "54",
+        "TDAvg": "1.06",
+        "TDAcc": "40",
+        "TDDef": "87",
+        "SubAvg": "0.4",
+        "record": "19-7-1"
+      }
+    },
+    {
+      "name": "Jorge Masvidal",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.05",
+        "StrAcc": "47",
+        "StrDef": "64",
+        "TDAvg": "1.38",
+        "TDAcc": "59",
+        "TDDef": "72",
+        "SubAvg": "0.3",
+        "record": "35-17-0"
+      }
+    },
+    {
+      "name": "Shavkat Rakhmonov",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A-",
+        "Wrestling": "A-",
+        "Submissions": "A",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "B",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.45",
+        "StrAcc": "59",
+        "StrDef": "53",
+        "TDAvg": "1.49",
+        "TDAcc": "33",
+        "TDDef": "100",
+        "SubAvg": "1.5",
+        "record": "17-0-0"
+      }
+    },
+    {
+      "name": "Neil Magny",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.45",
+        "StrAcc": "46",
+        "StrDef": "53",
+        "TDAvg": "2.22",
+        "TDAcc": "40",
+        "TDDef": "55",
+        "SubAvg": "0.3",
+        "record": "28-12-0"
+      }
+    },
+    {
+      "name": "Michael Chiesa",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "A-",
+        "Submissions": "A-",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "1.87",
+        "StrAcc": "40",
+        "StrDef": "54",
+        "TDAvg": "3.33",
+        "TDAcc": "50",
+        "TDDef": "60",
+        "SubAvg": "1.0",
+        "record": "18-7-0"
+      }
+    },
+    {
+      "name": "Sean Brady",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.17",
+        "StrAcc": "53",
+        "StrDef": "62",
+        "TDAvg": "2.8",
+        "TDAcc": "50",
+        "TDDef": "87",
+        "SubAvg": "0.8",
+        "record": "15-1-0"
+      }
+    },
+    {
+      "name": "Court McGee",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.63",
+        "StrAcc": "37",
+        "StrDef": "60",
+        "TDAvg": "1.89",
+        "TDAcc": "25",
+        "TDDef": "69",
+        "SubAvg": "0.4",
+        "record": "22-12-0"
+      }
+    },
+    {
+      "name": "Bryan Barberena",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C+",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "D",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.53",
+        "StrAcc": "48",
+        "StrDef": "44",
+        "TDAvg": "0.14",
+        "TDAcc": "22",
+        "TDDef": "49",
+        "SubAvg": "0.3",
+        "record": "18-11-0"
+      }
+    },
+    {
+      "name": "Randy Brown",
+      "division": "Men's Welterweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.38",
+        "StrAcc": "47",
+        "StrDef": "54",
+        "TDAvg": "0.8",
+        "TDAcc": "39",
+        "TDDef": "74",
+        "SubAvg": "0.5",
+        "record": "17-5-0"
+      }
+    },
+    {
+      "name": "Israel Adesanya",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.93",
+        "StrAcc": "48",
+        "StrDef": "56",
+        "TDAvg": "0.05",
+        "TDAcc": "14",
+        "TDDef": "77",
+        "SubAvg": "0.1",
+        "record": "24-3-0"
+      }
+    },
+    {
+      "name": "Anderson Silva",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "S",
+        "Power": "A",
+        "Wrestling": "B-",
+        "Submissions": "A-",
+        "Cardio": "B+",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.05",
+        "StrAcc": "61",
+        "StrDef": "60",
+        "TDAvg": "0.5",
+        "TDAcc": "77",
+        "TDDef": "69",
+        "SubAvg": "0.8",
+        "record": "34-11-0"
+      }
+    },
+    {
+      "name": "Dricus du Plessis",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B+",
+        "Wrestling": "A-",
+        "Submissions": "B+",
+        "Cardio": "A",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "C",
+        "Submissions": "C+",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.95",
+        "StrAcc": "55",
+        "StrDef": "53",
+        "TDAvg": "2.72",
+        "TDAcc": "50",
+        "TDDef": "40",
+        "SubAvg": "1.1",
+        "record": "20-2-0"
+      }
+    },
+    {
+      "name": "Sean Strickland",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "A+",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.82",
+        "StrAcc": "41",
+        "StrDef": "63",
+        "TDAvg": "0.92",
+        "TDAcc": "64",
+        "TDDef": "84",
+        "SubAvg": "0.2",
+        "record": "28-5-0"
+      }
+    },
+    {
+      "name": "Robert Whittaker",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.47",
+        "StrAcc": "42",
+        "StrDef": "60",
+        "TDAvg": "0.85",
+        "TDAcc": "39",
+        "TDDef": "82",
+        "SubAvg": "0.0",
+        "record": "25-7-0"
+      }
+    },
+    {
+      "name": "Khamzat Chimaev",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A-",
+        "Wrestling": "S",
+        "Submissions": "A",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "A-",
+        "Wrestling": "B",
+        "Submissions": "S",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "7.3",
+        "StrAcc": "59",
+        "StrDef": "41",
+        "TDAvg": "3.98",
+        "TDAcc": "57",
+        "TDDef": "100",
+        "SubAvg": "3.5",
+        "record": "12-0-0"
+      }
+    },
+    {
+      "name": "Chael Sonnen",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "A+",
+        "Submissions": "C+",
+        "Cardio": "A",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "B-",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.08",
+        "StrAcc": "43",
+        "StrDef": "62",
+        "TDAvg": "3.81",
+        "TDAcc": "59",
+        "TDDef": "66",
+        "SubAvg": "0.4",
+        "record": "29-15-1"
+      }
+    },
+    {
+      "name": "Yoel Romero",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A+",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "B-",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.44",
+        "StrAcc": "49",
+        "StrDef": "60",
+        "TDAvg": "1.57",
+        "TDAcc": "30",
+        "TDDef": "78",
+        "SubAvg": "0.0",
+        "record": "13-5-0"
+      }
+    },
+    {
+      "name": "Michael Bisping",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "B-",
+        "Submissions": "B-",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.33",
+        "StrAcc": "38",
+        "StrDef": "65",
+        "TDAvg": "1.05",
+        "TDAcc": "43",
+        "TDDef": "63",
+        "SubAvg": "0.3",
+        "record": "30-9-0"
+      }
+    },
+    {
+      "name": "Brad Tavares",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.38",
+        "StrAcc": "43",
+        "StrDef": "56",
+        "TDAvg": "0.81",
+        "TDAcc": "26",
+        "TDDef": "82",
+        "SubAvg": "0.0",
+        "record": "20-9-0"
+      }
+    },
+    {
+      "name": "Derek Brunson",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "B+",
+        "Wrestling": "B+",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C+",
+        "Submissions": "C-",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.51",
+        "StrAcc": "47",
+        "StrDef": "51",
+        "TDAvg": "3.14",
+        "TDAcc": "33",
+        "TDDef": "85",
+        "SubAvg": "0.6",
+        "record": "23-9-0"
+      }
+    },
+    {
+      "name": "Andre Muniz",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C+",
+        "Wrestling": "B",
+        "Submissions": "A-",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "B",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.17",
+        "StrAcc": "50",
+        "StrDef": "53",
+        "TDAvg": "2.97",
+        "TDAcc": "40",
+        "TDDef": "35",
+        "SubAvg": "1.5",
+        "record": "23-6-0"
+      }
+    },
+    {
+      "name": "Chris Weidman",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "B-",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.98",
+        "StrAcc": "43",
+        "StrDef": "50",
+        "TDAvg": "3.6",
+        "TDAcc": "43",
+        "TDDef": "65",
+        "SubAvg": "0.8",
+        "record": "15-7-0"
+      }
+    },
+    {
+      "name": "Uriah Hall",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B+",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.23",
+        "StrAcc": "48",
+        "StrDef": "54",
+        "TDAvg": "0.54",
+        "TDAcc": "38",
+        "TDDef": "64",
+        "SubAvg": "0.1",
+        "record": "18-11-0"
+      }
+    },
+    {
+      "name": "Kelvin Gastelum",
+      "division": "Men's Middleweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C+",
+        "Wrestling": "C+",
+        "Submissions": "B-",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.63",
+        "StrAcc": "41",
+        "StrDef": "58",
+        "TDAvg": "1.0",
+        "TDAcc": "30",
+        "TDDef": "62",
+        "SubAvg": "0.1",
+        "record": "18-8-0"
+      }
+    },
+    {
+      "name": "Jon Jones",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A",
+        "Wrestling": "A+",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C+",
+        "Submissions": "C-",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.29",
+        "StrAcc": "57",
+        "StrDef": "64",
+        "TDAvg": "1.93",
+        "TDAcc": "45",
+        "TDDef": "95",
+        "SubAvg": "0.5",
+        "record": "27-1-0"
+      }
+    },
+    {
+      "name": "Alex Pereira",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "S",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.11",
+        "StrAcc": "62",
+        "StrDef": "51",
+        "TDAvg": "0.22",
+        "TDAcc": "100",
+        "TDDef": "70",
+        "SubAvg": "0.2",
+        "record": "8-2-0"
+      }
+    },
+    {
+      "name": "Jiří Procházka",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A",
+        "Wrestling": "B",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.77",
+        "StrAcc": "55",
+        "StrDef": "40",
+        "TDAvg": "0.38",
+        "TDAcc": "100",
+        "TDDef": "68",
+        "SubAvg": "0.4",
+        "record": "29-3-1"
+      }
+    },
+    {
+      "name": "Jamahal Hill",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A-",
+        "Wrestling": "B-",
+        "Submissions": "B-",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "7.31",
+        "StrAcc": "54",
+        "StrDef": "47",
+        "TDAvg": "0.0",
+        "TDAcc": "0",
+        "TDDef": "73",
+        "SubAvg": "0.0",
+        "record": "12-1-0"
+      }
+    },
+    {
+      "name": "Daniel Cormier",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B+",
+        "Wrestling": "S",
+        "Submissions": "B+",
+        "Cardio": "A",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.25",
+        "StrAcc": "52",
+        "StrDef": "54",
+        "TDAvg": "1.83",
+        "TDAcc": "44",
+        "TDDef": "80",
+        "SubAvg": "0.4",
+        "record": "22-3-0"
+      }
+    },
+    {
+      "name": "Anthony Johnson",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "S",
+        "Wrestling": "B+",
+        "Submissions": "B-",
+        "Cardio": "B-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C+",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.25",
+        "StrAcc": "47",
+        "StrDef": "60",
+        "TDAvg": "2.43",
+        "TDAcc": "57",
+        "TDDef": "77",
+        "SubAvg": "0.6",
+        "record": "22-6-0"
+      }
+    },
+    {
+      "name": "Glover Teixeira",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A-",
+        "Wrestling": "B+",
+        "Submissions": "A",
+        "Cardio": "A",
+        "Chin": "S"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.73",
+        "StrAcc": "49",
+        "StrDef": "51",
+        "TDAvg": "2.11",
+        "TDAcc": "33",
+        "TDDef": "60",
+        "SubAvg": "0.9",
+        "record": "33-9-0"
+      }
+    },
+    {
+      "name": "Dominick Reyes",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.75",
+        "StrAcc": "50",
+        "StrDef": "48",
+        "TDAvg": "0.36",
+        "TDAcc": "28",
+        "TDDef": "80",
+        "SubAvg": "0.4",
+        "record": "12-4-0"
+      }
+    },
+    {
+      "name": "Thiago Santos",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A",
+        "Wrestling": "B-",
+        "Submissions": "B-",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.72",
+        "StrAcc": "48",
+        "StrDef": "53",
+        "TDAvg": "0.88",
+        "TDAcc": "33",
+        "TDDef": "65",
+        "SubAvg": "0.1",
+        "record": "22-11-0"
+      }
+    },
+    {
+      "name": "Anthony Smith",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "C+",
+        "Submissions": "B+",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "C",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.16",
+        "StrAcc": "48",
+        "StrDef": "46",
+        "TDAvg": "0.52",
+        "TDAcc": "28",
+        "TDDef": "48",
+        "SubAvg": "0.7",
+        "record": "37-18-0"
+      }
+    },
+    {
+      "name": "Johnny Walker",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A-",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "C+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.85",
+        "StrAcc": "56",
+        "StrDef": "46",
+        "TDAvg": "0.51",
+        "TDAcc": "100",
+        "TDDef": "60",
+        "SubAvg": "1.0",
+        "record": "21-7-0"
+      }
+    },
+    {
+      "name": "Dustin Jacoby",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.46",
+        "StrAcc": "46",
+        "StrDef": "59",
+        "TDAvg": "0.4",
+        "TDAcc": "25",
+        "TDDef": "60",
+        "SubAvg": "0.0",
+        "record": "19-7-1"
+      }
+    },
+    {
+      "name": "Ovince Saint Preux",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "B-",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "C+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C-",
+        "Submissions": "C-",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.71",
+        "StrAcc": "47",
+        "StrDef": "46",
+        "TDAvg": "1.15",
+        "TDAcc": "38",
+        "TDDef": "66",
+        "SubAvg": "0.5",
+        "record": "26-17-0"
+      }
+    },
+    {
+      "name": "Devin Clark",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C",
+        "Wrestling": "B-",
+        "Submissions": "C",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.99",
+        "StrAcc": "55",
+        "StrDef": "43",
+        "TDAvg": "2.35",
+        "TDAcc": "33",
+        "TDDef": "60",
+        "SubAvg": "0.1",
+        "record": "14-8-0"
+      }
+    },
+    {
+      "name": "Alonzo Menifield",
+      "division": "Men's Light Heavyweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "B",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.82",
+        "StrAcc": "57",
+        "StrDef": "52",
+        "TDAvg": "0.62",
+        "TDAcc": "30",
+        "TDDef": "75",
+        "SubAvg": "0.3",
+        "record": "14-3-1"
+      }
+    },
+    {
+      "name": "Francis Ngannou",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "S",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "D",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "D",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.33",
+        "StrAcc": "41",
+        "StrDef": "41",
+        "TDAvg": "0.76",
+        "TDAcc": "62",
+        "TDDef": "71",
+        "SubAvg": "0.3",
+        "record": "17-3-0"
+      }
+    },
+    {
+      "name": "Tom Aspinall",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A",
+        "Wrestling": "B+",
+        "Submissions": "A-",
+        "Cardio": "B+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "S",
+        "Wrestling": "A-",
+        "Submissions": "A",
+        "Cardio": "A+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "7.65",
+        "StrAcc": "66",
+        "StrDef": "65",
+        "TDAvg": "3.7",
+        "TDAcc": "100",
+        "TDDef": "100",
+        "SubAvg": "1.9",
+        "record": "13-3-0"
+      }
+    },
+    {
+      "name": "Stipe Miocic",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "A",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.82",
+        "StrAcc": "53",
+        "StrDef": "54",
+        "TDAvg": "1.86",
+        "TDAcc": "34",
+        "TDDef": "68",
+        "SubAvg": "0.0",
+        "record": "20-4-0"
+      }
+    },
+    {
+      "name": "Ciryl Gane",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "B-",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "D+",
+        "Submissions": "C-",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.49",
+        "StrAcc": "60",
+        "StrDef": "63",
+        "TDAvg": "0.58",
+        "TDAcc": "21",
+        "TDDef": "50",
+        "SubAvg": "0.5",
+        "record": "12-2-0"
+      }
+    },
+    {
+      "name": "Curtis Blaydes",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B+",
+        "Wrestling": "A",
+        "Submissions": "B-",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "B",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.56",
+        "StrAcc": "49",
+        "StrDef": "59",
+        "TDAvg": "5.93",
+        "TDAcc": "53",
+        "TDDef": "33",
+        "SubAvg": "0.0",
+        "record": "17-4-0"
+      }
+    },
+    {
+      "name": "Sergei Pavlovich",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "S",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "B-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "A-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "8.72",
+        "StrAcc": "49",
+        "StrDef": "57",
+        "TDAvg": "0.0",
+        "TDAcc": "0",
+        "TDDef": "75",
+        "SubAvg": "0.0",
+        "record": "18-1-0"
+      }
+    },
+    {
+      "name": "Cain Velasquez",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "A+",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "B+",
+        "Wrestling": "B",
+        "Submissions": "D+",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.37",
+        "StrAcc": "57",
+        "StrDef": "57",
+        "TDAvg": "5.13",
+        "TDAcc": "45",
+        "TDDef": "85",
+        "SubAvg": "0.4",
+        "record": "14-3-0"
+      }
+    },
+    {
+      "name": "Fabrício Werdum",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "B",
+        "Submissions": "S",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "B-",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.59",
+        "StrAcc": "52",
+        "StrDef": "55",
+        "TDAvg": "1.75",
+        "TDAcc": "31",
+        "TDDef": "31",
+        "SubAvg": "1.2",
+        "record": "24-9-1"
+      }
+    },
+    {
+      "name": "Junior dos Santos",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "A+",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.49",
+        "StrAcc": "47",
+        "StrDef": "56",
+        "TDAvg": "0.3",
+        "TDAcc": "50",
+        "TDDef": "81",
+        "SubAvg": "0.1",
+        "record": "21-9-0"
+      }
+    },
+    {
+      "name": "Marcin Tybura",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "B",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.55",
+        "StrAcc": "48",
+        "StrDef": "55",
+        "TDAvg": "1.39",
+        "TDAcc": "33",
+        "TDDef": "79",
+        "SubAvg": "0.1",
+        "record": "24-8-0"
+      }
+    },
+    {
+      "name": "Walt Harris",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B+",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.05",
+        "StrAcc": "39",
+        "StrDef": "54",
+        "TDAvg": "0.29",
+        "TDAcc": "28",
+        "TDDef": "70",
+        "SubAvg": "0.1",
+        "record": "13-10-0"
+      }
+    },
+    {
+      "name": "Andrei Arlovski",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "C",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.78",
+        "StrAcc": "45",
+        "StrDef": "57",
+        "TDAvg": "0.39",
+        "TDAcc": "36",
+        "TDDef": "76",
+        "SubAvg": "0.2",
+        "record": "34-22-0"
+      }
+    },
+    {
+      "name": "Derrick Lewis",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "S",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "C-",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "D",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.6",
+        "StrAcc": "50",
+        "StrDef": "41",
+        "TDAvg": "0.59",
+        "TDAcc": "28",
+        "TDDef": "52",
+        "SubAvg": "0.0",
+        "record": "27-11-0"
+      }
+    },
+    {
+      "name": "Jairzinho Rozenstruik",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A-",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "C",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.81",
+        "StrAcc": "45",
+        "StrDef": "45",
+        "TDAvg": "0.0",
+        "TDAcc": "0",
+        "TDDef": "73",
+        "SubAvg": "0.0",
+        "record": "13-5-0"
+      }
+    },
+    {
+      "name": "Tai Tuivasa",
+      "division": "Men's Heavyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "A-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C-",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D",
+        "Submissions": "D",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.98",
+        "StrAcc": "49",
+        "StrDef": "43",
+        "TDAvg": "0.0",
+        "TDAcc": "0",
+        "TDDef": "54",
+        "SubAvg": "0.0",
+        "record": "15-6-0"
+      }
+    },
+    {
+      "name": "Zhang Weili",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A-",
+        "Wrestling": "B+",
+        "Submissions": "B+",
+        "Cardio": "A",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.94",
+        "StrAcc": "51",
+        "StrDef": "53",
+        "TDAvg": "2.29",
+        "TDAcc": "42",
+        "TDDef": "66",
+        "SubAvg": "0.4",
+        "record": "24-3-0"
+      }
+    },
+    {
+      "name": "Rose Namajunas",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "A",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "B+",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "C-",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.68",
+        "StrAcc": "40",
+        "StrDef": "62",
+        "TDAvg": "1.49",
+        "TDAcc": "48",
+        "TDDef": "60",
+        "SubAvg": "0.6",
+        "record": "12-6-0"
+      }
+    },
+    {
+      "name": "Joanna Jędrzejczyk",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A-",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "A-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.28",
+        "StrAcc": "48",
+        "StrDef": "62",
+        "TDAvg": "0.27",
+        "TDAcc": "62",
+        "TDDef": "80",
+        "SubAvg": "0.1",
+        "record": "16-5-0"
+      }
+    },
+    {
+      "name": "Carla Esparza",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "A-",
+        "Submissions": "A-",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.16",
+        "StrAcc": "40",
+        "StrDef": "55",
+        "TDAvg": "3.22",
+        "TDAcc": "35",
+        "TDDef": "47",
+        "SubAvg": "0.3",
+        "record": "20-7-0"
+      }
+    },
+    {
+      "name": "Yan Xiaonan",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.55",
+        "StrAcc": "44",
+        "StrDef": "61",
+        "TDAvg": "0.86",
+        "TDAcc": "66",
+        "TDDef": "70",
+        "SubAvg": "0.0",
+        "record": "17-3-0"
+      }
+    },
+    {
+      "name": "Marina Rodriguez",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "B-",
+        "Submissions": "B",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "D+",
+        "Submissions": "D+",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.77",
+        "StrAcc": "48",
+        "StrDef": "56",
+        "TDAvg": "0.25",
+        "TDAcc": "42",
+        "TDDef": "66",
+        "SubAvg": "0.2",
+        "record": "17-3-2"
+      }
+    },
+    {
+      "name": "Tatiana Suarez",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "S",
+        "Submissions": "A",
+        "Cardio": "A",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "A",
+        "Submissions": "C",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.27",
+        "StrAcc": "63",
+        "StrDef": "51",
+        "TDAvg": "6.2",
+        "TDAcc": "61",
+        "TDDef": "100",
+        "SubAvg": "0.9",
+        "record": "11-0-0"
+      }
+    },
+    {
+      "name": "Virna Jandiroba",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "A-",
+        "Submissions": "A",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C",
+        "Submissions": "C+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.34",
+        "StrAcc": "40",
+        "StrDef": "56",
+        "TDAvg": "2.42",
+        "TDAcc": "39",
+        "TDDef": "73",
+        "SubAvg": "1.0",
+        "record": "19-3-0"
+      }
+    },
+    {
+      "name": "Angela Hill",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B+",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.46",
+        "StrAcc": "49",
+        "StrDef": "61",
+        "TDAvg": "0.54",
+        "TDAcc": "29",
+        "TDDef": "76",
+        "SubAvg": "0.1",
+        "record": "15-13-0"
+      }
+    },
+    {
+      "name": "Jessica Penne",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C+",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "D",
+        "Wrestling": "D+",
+        "Submissions": "C-",
+        "Cardio": "D",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.52",
+        "StrAcc": "31",
+        "StrDef": "46",
+        "TDAvg": "1.32",
+        "TDAcc": "21",
+        "TDDef": "36",
+        "SubAvg": "0.6",
+        "record": "14-8-0"
+      }
+    },
+    {
+      "name": "Cynthia Calvillo",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C+",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.41",
+        "StrAcc": "38",
+        "StrDef": "64",
+        "TDAvg": "1.8",
+        "TDAcc": "44",
+        "TDDef": "77",
+        "SubAvg": "0.8",
+        "record": "9-6-1"
+      }
+    },
+    {
+      "name": "Mackenzie Dern",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "C",
+        "Power": "C",
+        "Wrestling": "B-",
+        "Submissions": "S",
+        "Cardio": "B-",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "D",
+        "Submissions": "B",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.36",
+        "StrAcc": "40",
+        "StrDef": "51",
+        "TDAvg": "0.81",
+        "TDAcc": "15",
+        "TDDef": "40",
+        "SubAvg": "1.5",
+        "record": "13-3-0"
+      }
+    },
+    {
+      "name": "Michelle Waterson",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "B",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.56",
+        "StrAcc": "46",
+        "StrDef": "49",
+        "TDAvg": "1.42",
+        "TDAcc": "32",
+        "TDDef": "70",
+        "SubAvg": "0.7",
+        "record": "18-12-0"
+      }
+    },
+    {
+      "name": "Polyana Viana",
+      "division": "Women's Strawweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "B",
+        "Cardio": "C",
+        "Chin": "C-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "A+",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.19",
+        "StrAcc": "41",
+        "StrDef": "55",
+        "TDAvg": "0.93",
+        "TDAcc": "33",
+        "TDDef": "43",
+        "SubAvg": "2.1",
+        "record": "13-6-0"
+      }
+    },
+    {
+      "name": "Valentina Shevchenko",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "A-",
+        "Wrestling": "A-",
+        "Submissions": "A-",
+        "Cardio": "A",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C+",
+        "Submissions": "D+",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.28",
+        "StrAcc": "52",
+        "StrDef": "62",
+        "TDAvg": "2.56",
+        "TDAcc": "63",
+        "TDDef": "71",
+        "SubAvg": "0.4",
+        "record": "23-4-1"
+      }
+    },
+    {
+      "name": "Alexa Grasso",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B",
+        "Wrestling": "B",
+        "Submissions": "A-",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D+",
+        "Submissions": "C-",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.67",
+        "StrAcc": "43",
+        "StrDef": "58",
+        "TDAvg": "0.41",
+        "TDAcc": "45",
+        "TDDef": "59",
+        "SubAvg": "0.6",
+        "record": "16-3-1"
+      }
+    },
+    {
+      "name": "Jessica Andrade",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "A",
+        "Wrestling": "A-",
+        "Submissions": "B",
+        "Cardio": "A",
+        "Chin": "A+"
+      },
+      "computed": {
+        "Striking": "B",
+        "Wrestling": "C+",
+        "Submissions": "D+",
+        "Cardio": "B+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.68",
+        "StrAcc": "50",
+        "StrDef": "54",
+        "TDAvg": "2.54",
+        "TDAcc": "54",
+        "TDDef": "70",
+        "SubAvg": "0.4",
+        "record": "24-12-0"
+      }
+    },
+    {
+      "name": "Katlyn Chookagian",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "D",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.59",
+        "StrAcc": "34",
+        "StrDef": "63",
+        "TDAvg": "0.27",
+        "TDAcc": "15",
+        "TDDef": "54",
+        "SubAvg": "0.3",
+        "record": "18-5-0"
+      }
+    },
+    {
+      "name": "Manon Fiorot",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "A",
+        "Power": "B+",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "A",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "6.05",
+        "StrAcc": "39",
+        "StrDef": "69",
+        "TDAvg": "1.36",
+        "TDAcc": "46",
+        "TDDef": "91",
+        "SubAvg": "0.0",
+        "record": "11-1-0"
+      }
+    },
+    {
+      "name": "Taila Santos",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "A-",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.39",
+        "StrAcc": "48",
+        "StrDef": "58",
+        "TDAvg": "2.0",
+        "TDAcc": "76",
+        "TDDef": "86",
+        "SubAvg": "1.1",
+        "record": "19-3-0"
+      }
+    },
+    {
+      "name": "Andrea Lee",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "C+",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "B",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.91",
+        "StrAcc": "47",
+        "StrDef": "63",
+        "TDAvg": "1.84",
+        "TDAcc": "57",
+        "TDDef": "54",
+        "SubAvg": "0.6",
+        "record": "13-8-0"
+      }
+    },
+    {
+      "name": "Lauren Murphy",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "B-",
+        "Wrestling": "B",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.05",
+        "StrAcc": "39",
+        "StrDef": "55",
+        "TDAvg": "1.03",
+        "TDAcc": "25",
+        "TDDef": "69",
+        "SubAvg": "0.1",
+        "record": "16-6-0"
+      }
+    },
+    {
+      "name": "Jennifer Maia",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "B-",
+        "Wrestling": "B",
+        "Submissions": "B",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.5",
+        "StrAcc": "38",
+        "StrDef": "55",
+        "TDAvg": "0.27",
+        "TDAcc": "21",
+        "TDDef": "57",
+        "SubAvg": "0.1",
+        "record": "21-9-1"
+      }
+    },
+    {
+      "name": "Viviane Araújo",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "B-",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.63",
+        "StrAcc": "47",
+        "StrDef": "55",
+        "TDAvg": "1.81",
+        "TDAcc": "48",
+        "TDDef": "82",
+        "SubAvg": "0.6",
+        "record": "11-5-0"
+      }
+    },
+    {
+      "name": "Maycee Barber",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "D+",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.6",
+        "StrAcc": "52",
+        "StrDef": "54",
+        "TDAvg": "1.14",
+        "TDAcc": "35",
+        "TDDef": "45",
+        "SubAvg": "0.1",
+        "record": "13-2-0"
+      }
+    },
+    {
+      "name": "Jasmine Jasudavicius",
+      "division": "Women's Flyweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.54",
+        "StrAcc": "40",
+        "StrDef": "51",
+        "TDAvg": "2.17",
+        "TDAcc": "37",
+        "TDDef": "80",
+        "SubAvg": "0.0",
+        "record": "9-3-0"
+      }
+    },
+    {
+      "name": "Amanda Nunes",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "A+",
+        "Power": "S",
+        "Wrestling": "A-",
+        "Submissions": "A-",
+        "Cardio": "A",
+        "Chin": "A"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.55",
+        "StrAcc": "51",
+        "StrDef": "57",
+        "TDAvg": "2.73",
+        "TDAcc": "54",
+        "TDDef": "82",
+        "SubAvg": "0.7",
+        "record": "23-5-0"
+      }
+    },
+    {
+      "name": "Ronda Rousey",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "B",
+        "Wrestling": "A",
+        "Submissions": "S",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "B+",
+        "Submissions": "S",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.17",
+        "StrAcc": "52",
+        "StrDef": "44",
+        "TDAvg": "6.26",
+        "TDAcc": "68",
+        "TDDef": "50",
+        "SubAvg": "4.8",
+        "record": "12-2-0"
+      }
+    },
+    {
+      "name": "Julianna Peña",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "A-",
+        "Submissions": "A-",
+        "Cardio": "A",
+        "Chin": "A-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "C",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.16",
+        "StrAcc": "47",
+        "StrDef": "50",
+        "TDAvg": "1.94",
+        "TDAcc": "55",
+        "TDDef": "23",
+        "SubAvg": "0.8",
+        "record": "12-5-0"
+      }
+    },
+    {
+      "name": "Raquel Pennington",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "A",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "D+",
+        "Submissions": "C-",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.02",
+        "StrAcc": "50",
+        "StrDef": "62",
+        "TDAvg": "0.93",
+        "TDAcc": "27",
+        "TDDef": "63",
+        "SubAvg": "0.6",
+        "record": "15-9-0"
+      }
+    },
+    {
+      "name": "Holly Holm",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "A",
+        "Power": "B+",
+        "Wrestling": "B-",
+        "Submissions": "B-",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.21",
+        "StrAcc": "40",
+        "StrDef": "56",
+        "TDAvg": "0.9",
+        "TDAcc": "30",
+        "TDDef": "78",
+        "SubAvg": "0.1",
+        "record": "15-7-0"
+      }
+    },
+    {
+      "name": "Miesha Tate",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B-",
+        "Wrestling": "B+",
+        "Submissions": "B+",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C-",
+        "Submissions": "B-",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.61",
+        "StrAcc": "44",
+        "StrDef": "51",
+        "TDAvg": "1.88",
+        "TDAcc": "29",
+        "TDDef": "55",
+        "SubAvg": "1.3",
+        "record": "19-9-0"
+      }
+    },
+    {
+      "name": "Ketlen Vieira",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B+",
+        "Power": "B",
+        "Wrestling": "B+",
+        "Submissions": "B",
+        "Cardio": "A-",
+        "Chin": "B+"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.04",
+        "StrAcc": "41",
+        "StrDef": "51",
+        "TDAvg": "1.51",
+        "TDAcc": "44",
+        "TDDef": "92",
+        "SubAvg": "0.6",
+        "record": "14-3-0"
+      }
+    },
+    {
+      "name": "Irene Aldana",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "A-",
+        "Power": "B+",
+        "Wrestling": "C",
+        "Submissions": "C",
+        "Cardio": "B",
+        "Chin": "C+"
+      },
+      "computed": {
+        "Striking": "C",
+        "Wrestling": "C-",
+        "Submissions": "D+",
+        "Cardio": "B-",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.86",
+        "StrAcc": "39",
+        "StrDef": "59",
+        "TDAvg": "0.17",
+        "TDAcc": "50",
+        "TDDef": "75",
+        "SubAvg": "0.3",
+        "record": "14-7-0"
+      }
+    },
+    {
+      "name": "Macy Chiasson",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B",
+        "Power": "B",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "B-",
+        "Chin": "B-"
+      },
+      "computed": {
+        "Striking": "C-",
+        "Wrestling": "C",
+        "Submissions": "D+",
+        "Cardio": "D+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.64",
+        "StrAcc": "44",
+        "StrDef": "46",
+        "TDAvg": "2.17",
+        "TDAcc": "34",
+        "TDDef": "64",
+        "SubAvg": "0.3",
+        "record": "9-3-0"
+      }
+    },
+    {
+      "name": "Sara McMann",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "B-",
+        "Wrestling": "A-",
+        "Submissions": "C+",
+        "Cardio": "B",
+        "Chin": "B"
+      },
+      "computed": {
+        "Striking": "D+",
+        "Wrestling": "B-",
+        "Submissions": "C-",
+        "Cardio": "D",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "2.26",
+        "StrAcc": "46",
+        "StrDef": "47",
+        "TDAvg": "4.38",
+        "TDAcc": "65",
+        "TDDef": "50",
+        "SubAvg": "0.5",
+        "record": "13-6-0"
+      }
+    },
+    {
+      "name": "Karol Rosa",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "B-",
+        "Submissions": "C+",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "B-",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "5.43",
+        "StrAcc": "55",
+        "StrDef": "48",
+        "TDAvg": "1.38",
+        "TDAcc": "47",
+        "TDDef": "68",
+        "SubAvg": "0.0",
+        "record": "17-5-0"
+      }
+    },
+    {
+      "name": "Norma Dumont",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "B-",
+        "Power": "C+",
+        "Wrestling": "C",
+        "Submissions": "C-",
+        "Cardio": "C+",
+        "Chin": "C"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C",
+        "Submissions": "D",
+        "Cardio": "C+",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "3.41",
+        "StrAcc": "49",
+        "StrDef": "66",
+        "TDAvg": "1.39",
+        "TDAcc": "64",
+        "TDDef": "72",
+        "SubAvg": "0.0",
+        "record": "10-2-0"
+      }
+    },
+    {
+      "name": "Yana Santos",
+      "division": "Women's Bantamweight",
+      "current": {
+        "Striking": "C+",
+        "Power": "C",
+        "Wrestling": "C+",
+        "Submissions": "C",
+        "Cardio": "C+",
+        "Chin": "C-"
+      },
+      "computed": {
+        "Striking": "C+",
+        "Wrestling": "C-",
+        "Submissions": "D",
+        "Cardio": "C",
+        "Power": null,
+        "Chin": null
+      },
+      "rawStats": {
+        "SLpM": "4.16",
+        "StrAcc": "56",
+        "StrDef": "50",
+        "TDAvg": "1.11",
+        "TDAcc": "53",
+        "TDDef": "42",
+        "SubAvg": "0.1",
+        "record": "14-8-0"
+      }
+    }
+  ],
+  "unmatched": []
+}

@@ -1,0 +1,119 @@
+/* ─────────────────────────────────────────────────────────────────────────────
+   tokens.css — the single source of visual truth.
+
+   Dark-committed by design: this is a broadcast product, not a document. The
+   palette is built from one near-black ground, four elevation steps, and a small
+   set of semantic accents that always mean the same thing —
+     red   = the promotion, danger, a loss
+     gold  = a belt, a champion, a career high
+     green = a gain, a win, an upward rank move
+     blue  = information, the player's own row
+   Nothing else is allowed to be red or gold, so those two colours keep their
+   meaning everywhere they appear.
+   ──────────────────────────────────────────────────────────────────────────── */
+
+:root {
+  /* ── Ground & elevation ── */
+  --bg:            #07070b;
+  --bg-deep:       #040407;
+  --surface:       #0d0d14;
+  --surface-2:     #12121b;
+  --surface-3:     #191924;
+  --elev:          #1f1f2c;
+
+  /* ── Lines ── */
+  --line:          rgba(255, 255, 255, 0.07);
+  --line-2:        rgba(255, 255, 255, 0.12);
+  --line-strong:   rgba(255, 255, 255, 0.20);
+
+  /* ── Text ── */
+  --fg:            #f3f4f8;
+  --fg-2:          #a5abbd;
+  --fg-3:          #6b7186;
+  --fg-4:          #464b5c;
+
+  /* ── Semantic accents ── */
+  --red:           #e5142e;
+  --red-hot:       #ff3b4e;
+  --red-dim:       rgba(229, 20, 46, 0.14);
+  --gold:          #f5b93a;
+  --gold-dim:      rgba(245, 185, 58, 0.14);
+  --green:         #24d07a;
+  --green-dim:     rgba(36, 208, 122, 0.13);
+  --blue:          #4d9fff;
+  --blue-dim:      rgba(77, 159, 255, 0.13);
+  --purple:        #a855f7;
+  --cyan:          #43e5c8;
+
+  /* Category colours — one per stat group, reused by bars, chips and charts. */
+  --cat-striking:   #ff5a5a;
+  --cat-grappling:  #4d9fff;
+  --cat-submission: #a855f7;
+  --cat-physical:   #f5b93a;
+  --cat-fightIQ:    #43e5c8;
+
+  /* ── Type ── */
+  --font-display: 'Barlow Condensed', 'Arial Narrow', system-ui, sans-serif;
+  --font-body:    'Barlow', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --text-2xs: 0.6875rem;  /* 11px — labels only, never body */
+  --text-xs:  0.75rem;
+  --text-sm:  0.8125rem;
+  --text-md:  0.9375rem;
+  --text-lg:  1.125rem;
+  --text-xl:  1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 2.75rem;
+  --text-4xl: 4rem;
+  --text-5xl: 6rem;
+
+  /* ── Space (dense / dashboard scale) ── */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 24px;
+  --s-6: 32px;
+  --s-7: 48px;
+  --s-8: 64px;
+
+  /* ── Radii ── */
+  --r-sm: 4px;
+  --r-md: 8px;
+  --r-lg: 14px;
+  --r-xl: 20px;
+  --r-full: 999px;
+
+  /* ── Elevation ── */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 8px 24px -8px rgba(0, 0, 0, 0.7);
+  --shadow-lg: 0 24px 60px -20px rgba(0, 0, 0, 0.85);
+  --glow-red:  0 0 0 1px rgba(229, 20, 46, 0.4), 0 0 28px -6px rgba(229, 20, 46, 0.55);
+  --glow-gold: 0 0 0 1px rgba(245, 185, 58, 0.4), 0 0 28px -6px rgba(245, 185, 58, 0.5);
+
+  /* ── Motion ──
+     Three durations, and they are not interchangeable: micro for state changes
+     the eye should not have to track, base for anything that moves across the
+     screen, and slow reserved for moments that are supposed to feel like an
+     event (a title changing hands, a week turning over). */
+  --dur-micro: 140ms;
+  --dur-base:  260ms;
+  --dur-slow:  620ms;
+  --ease-out:  cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* ── Layout ── */
+  --rail: 232px;
+  --topbar: 60px;
+  --max-w: 1400px;
+}
+
+/* Anyone who has asked for less motion gets a static interface, not a slower one. */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-micro: 1ms;
+    --dur-base:  1ms;
+    --dur-slow:  1ms;
+  }
+}

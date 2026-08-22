@@ -1,0 +1,341 @@
+/* screens.css — the three screens: Start, Build, Result. */
+
+/* ═══ Start ═════════════════════════════════════════════════════════════════ */
+.start {
+  position: relative;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: var(--s-7) var(--s-5);
+}
+.start__inner { position: relative; z-index: 1; max-width: 760px; width: 100%; text-align: center; }
+
+.start__eyebrow { display: inline-flex; align-items: center; gap: 8px; margin-bottom: var(--s-4); }
+.start__dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--red);
+  box-shadow: 0 0 12px var(--red);
+  animation: pulse 2s var(--ease-in-out) infinite;
+}
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+
+.start__title {
+  font-size: clamp(2.8rem, 10vw, 5.5rem);
+  line-height: 0.92;
+  letter-spacing: -0.01em;
+  color: #f6f7fb;
+}
+.start__goat {
+  color: transparent;
+  background: linear-gradient(120deg, var(--gold) 10%, #fff6d8 45%, var(--gold) 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  letter-spacing: 0.03em;
+}
+
+.start__lede {
+  max-width: 58ch;
+  margin: var(--s-5) auto 0;
+  font-size: var(--text-lg);
+  line-height: 1.55;
+  color: var(--fg-2);
+}
+.start__lede strong { color: var(--fg); }
+
+.start__toolsrow {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;
+  margin-top: var(--s-5);
+}
+.start__toolchip {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 5px 12px;
+  border-radius: var(--r-full);
+  border: 1px solid currentColor;
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.start__setup {
+  margin-top: var(--s-6);
+  text-align: left;
+  display: grid;
+  gap: var(--s-4);
+}
+.start__setuprow { display: grid; gap: var(--s-2); }
+
+.hardmode {
+  display: flex; align-items: center; gap: var(--s-3);
+  padding: var(--s-3);
+  border-radius: var(--r-md);
+  border: 1px solid var(--line);
+  background: var(--surface-2);
+  text-align: left;
+  font-size: var(--text-sm);
+  color: var(--fg-2);
+  transition: border-color var(--dur-micro), background var(--dur-micro);
+}
+.hardmode:hover { border-color: var(--line-strong); }
+.hardmode.is-on { border-color: var(--red); background: rgba(229, 20, 46, 0.08); color: var(--fg); }
+.hardmode__box {
+  flex-shrink: 0;
+  width: 20px; height: 20px;
+  display: grid; place-items: center;
+  border-radius: 5px;
+  border: 1px solid var(--line-strong);
+  color: transparent;
+}
+.hardmode.is-on .hardmode__box { background: var(--red); border-color: var(--red); color: #fff; }
+
+.start__features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(210px, 100%), 1fr));
+  gap: var(--s-4);
+  margin-top: var(--s-6);
+  text-align: left;
+}
+.start__feature {
+  padding: var(--s-4);
+  border-radius: var(--r-lg);
+  background: rgba(18, 18, 27, 0.55);
+  border: 1px solid var(--line);
+  backdrop-filter: blur(8px);
+  color: var(--red-hot);
+}
+.start__feature h3 { font-size: 1rem; margin: var(--s-2) 0 5px; color: var(--fg); }
+.start__feature p { font-size: var(--text-sm); line-height: 1.5; }
+
+.start__disclaimer { font-size: var(--text-2xs); margin-top: var(--s-6); }
+
+/* ═══ Build screen ══════════════════════════════════════════════════════════ */
+.buildscreen {
+  position: relative;
+  z-index: 1;
+  max-width: 920px;
+  margin: 0 auto;
+  padding: var(--s-6) var(--s-5) var(--s-8);
+}
+
+.buildscreen__head {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  gap: var(--s-4); margin-bottom: var(--s-5); flex-wrap: wrap;
+}
+.buildscreen__head h1 { font-size: 1.7rem; margin-top: 4px; }
+.buildscreen__headright { display: flex; align-items: center; gap: var(--s-3); }
+
+.slotrail {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: var(--s-2);
+  margin-bottom: var(--s-5);
+}
+.slot {
+  display: flex; flex-direction: column; align-items: center; gap: 5px;
+  padding: var(--s-3) var(--s-2);
+  border-radius: var(--r-lg);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  text-align: center;
+  min-height: 108px;
+  justify-content: center;
+}
+.slot.is-open { border-style: dashed; }
+.slot.is-filled { border-color: var(--tool); background: linear-gradient(180deg, color-mix(in srgb, var(--tool) 12%, var(--surface)), var(--surface)); }
+.slot__icon { color: var(--tool); }
+.slot__tool { font-family: var(--font-display); font-size: var(--text-xs); letter-spacing: 0.06em; text-transform: uppercase; color: var(--fg-2); }
+.slot__filled { display: flex; flex-direction: column; align-items: center; gap: 3px; }
+.slot__source { font-size: 10px; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.slot__empty { font-size: var(--text-xs); }
+
+.spinbox { display: flex; flex-direction: column; align-items: center; gap: var(--s-4); }
+.spinbox__reels {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr;
+  gap: var(--s-3);
+  width: 100%;
+}
+.spinbox__cta { padding: var(--s-3) 0; }
+.spinbox__spinning { letter-spacing: 0.18em; color: var(--fg-3); }
+
+.spinbox__reveal { width: 100%; display: flex; flex-direction: column; align-items: center; gap: var(--s-3); }
+.spinbox__fighterhead { display: flex; align-items: center; gap: var(--s-3); flex-wrap: wrap; justify-content: center; }
+.spinbox__fighterhead h2 { font-size: 1.6rem; }
+.spinbox__prompt { font-size: var(--text-sm); color: var(--fg-2); }
+
+.stealgrid {
+  display: grid;
+  /* Fixed 3-column grid, same idea as .slotrail below — 6 tools always split
+     evenly into two full rows. auto-fit here used to size columns off a bare
+     150px minimum, which "Submissions" (longest label + its grade badge)
+     didn't fit inside: the tile's content overflowed its own grid cell
+     rather than wrapping, so it visibly stuck out past its neighbours. */
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--s-2);
+  width: 100%;
+}
+.stealtile {
+  display: flex; align-items: center; gap: var(--s-2);
+  min-width: 0;
+  padding: var(--s-3);
+  border-radius: var(--r-md);
+  border: 1px solid var(--line-2);
+  background: var(--surface-2);
+  text-align: left;
+  transition: border-color var(--dur-micro), background var(--dur-micro), transform var(--dur-micro);
+}
+.stealtile:hover:not(.is-locked) { border-color: var(--tool); background: color-mix(in srgb, var(--tool) 10%, var(--surface-2)); transform: translateY(-1px); }
+.stealtile:active:not(.is-locked) { transform: translateY(0); }
+.stealtile.is-locked { opacity: 0.4; cursor: not-allowed; }
+.stealtile > svg { color: var(--tool); flex-shrink: 0; }
+.stealtile__tool {
+  flex: 1; min-width: 0;
+  font-size: var(--text-sm); font-weight: 600; color: var(--fg);
+  overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+}
+.stealtile__check { color: var(--green); }
+
+.spinbox__actions { display: flex; justify-content: center; }
+
+/* ═══ Reel ══════════════════════════════════════════════════════════════════ */
+.reel { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.reel__window {
+  height: 58px;
+  border-radius: var(--r-md);
+  border: 1px solid var(--line-2);
+  background: var(--bg-deep);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  padding: 0 var(--s-2);
+}
+.reel__value {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  letter-spacing: 0.02em;
+  color: var(--fg);
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.reel--fighter .reel__value { font-size: 1.35rem; color: var(--red-hot); }
+.reel__placeholder { font-size: 1.4rem; }
+
+.reel__cycle { display: flex; flex-direction: column; animation: reelspin 0.16s linear infinite; }
+.reel__decoy {
+  height: 58px;
+  display: grid; place-items: center;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--fg-4);
+  filter: blur(1px);
+}
+@keyframes reelspin {
+  from { transform: translateY(0); }
+  to   { transform: translateY(-58px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reel__cycle { animation: none; opacity: 0.6; }
+}
+
+/* ═══ Result screen ═════════════════════════════════════════════════════════ */
+.resultscreen { position: relative; min-height: 100vh; padding: var(--s-7) var(--s-5) var(--s-8); }
+.result__inner { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; text-align: center; }
+
+.result__eyebrow { margin-bottom: var(--s-2); }
+.result__tier {
+  font-size: clamp(2.2rem, 7vw, 3.6rem);
+  line-height: 1;
+  margin-bottom: var(--s-3);
+}
+.result__tier.is-gold {
+  color: transparent;
+  background: linear-gradient(120deg, var(--gold) 10%, #fff6d8 45%, var(--gold) 80%);
+  -webkit-background-clip: text; background-clip: text;
+  text-shadow: 0 0 60px rgba(245, 185, 58, 0.35);
+}
+.result__tier.is-blue { color: var(--blue); }
+.result__tier.is-default { color: var(--fg); }
+.result__tier.is-red { color: var(--red-hot); }
+
+.result__story { max-width: 56ch; margin: 0 auto var(--s-6); font-size: var(--text-md); color: var(--fg-2); }
+
+.result__top {
+  display: flex; align-items: center; justify-content: center; gap: var(--s-6);
+  flex-wrap: wrap;
+  margin-bottom: var(--s-5);
+}
+.result__record { text-align: left; display: grid; gap: var(--s-3); }
+.result__recordmain { display: flex; align-items: center; gap: var(--s-3); flex-wrap: wrap; }
+.result__wl { font-size: 2.6rem; color: var(--fg); }
+.result__methods { display: flex; gap: var(--s-5); }
+.methodstat { display: grid; gap: 1px; }
+.methodstat__value { font-size: 1.3rem; }
+
+.result__line {
+  max-width: 60ch; margin: 0 auto var(--s-6);
+  font-size: var(--text-sm);
+  color: var(--fg-2);
+  font-style: italic;
+}
+
+.result__receipt { text-align: left; margin-bottom: var(--s-6); }
+.receiptlist { display: grid; gap: 4px; }
+/* Plain flex, two stacked lines, same at every viewport width — no breakpoint-
+   dependent column counting. The previous grid defined 4 columns but rendered
+   5 items (icon, tool, badge, avatar, attribution); the 5th auto-wrapped into
+   an implicit row's first (20px-wide) column, which only looked fine on the
+   narrow layout where a media query happened to override it back to full
+   width. On a wide viewport that override never fired, so the attribution
+   line rendered inside a 20px box and spilled out past the card's left edge. */
+.receiptrow {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px var(--s-2);
+  border-radius: var(--r-sm);
+}
+.receiptrow:hover { background: var(--surface-2); }
+.receiptrow__main { display: flex; align-items: center; gap: var(--s-3); }
+.receiptrow__icon { flex-shrink: 0; }
+.receiptrow__tool { flex: 1; min-width: 0; font-size: var(--text-sm); font-weight: 600; }
+/* Indented to line up under the tool name (icon width + the gap before it),
+   not under the icon itself. The fighter's name never shrinks or truncates —
+   it's the actual piece of information; the division after it is what gives
+   way on a narrow phone, ellipsizing on its own instead of the whole line
+   clipping down to an unreadable "Ci…". */
+.receiptrow__from {
+  display: flex; align-items: baseline; gap: 4px; min-width: 0;
+  padding-left: calc(20px + var(--s-3));
+  font-size: var(--text-xs);
+}
+.receiptrow__fighter { flex-shrink: 0; white-space: nowrap; }
+.receiptrow__division { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.result__spotlights { text-align: left; margin-bottom: var(--s-6); }
+.spotgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: var(--s-3); }
+.spotcard { border-top: 2px solid var(--line-2); }
+.spotcard.is-win { border-top-color: var(--green); }
+.spotcard.is-loss { border-top-color: var(--red); }
+.spotcard__opp { font-size: 1.2rem; margin: 4px 0 2px; }
+.spotcard__result { display: flex; align-items: center; gap: var(--s-2); margin-top: var(--s-3); }
+.spotcard__method { font-size: var(--text-xs); color: var(--fg-2); }
+
+.result__actions { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--s-3); }
+
+/* ═══ Responsive ════════════════════════════════════════════════════════════ */
+@media (max-width: 720px) {
+  .slotrail { grid-template-columns: repeat(3, 1fr); }
+  .stealgrid { grid-template-columns: repeat(2, 1fr); }
+  .spinbox__reels { grid-template-columns: 1fr; }
+  .result__top { flex-direction: column; }
+}
+
+@media (max-width: 480px) {
+  .slotrail { grid-template-columns: repeat(2, 1fr); }
+  .stealgrid { grid-template-columns: 1fr; }
+  .result__wl { font-size: 2rem; }
+  .result__methods { gap: var(--s-4); flex-wrap: wrap; }
+}
