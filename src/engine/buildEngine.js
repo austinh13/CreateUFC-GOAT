@@ -26,10 +26,10 @@ import { resolveFight, makeOpponent } from './fightSim';
 // the roster's grade spread meaningfully will shift the distribution these produce,
 // so a roster change should be re-validated the same way (scripts/_tune2.mjs during
 // development; not shipped, but the method is worth repeating).
-const ELITE_BONUS   = 0.5;   // per tool scored 92+ (A and above)
-const GOOD_BONUS    = 0.2;   // per tool scored 88-91 (A-)
+const ELITE_BONUS   = 0.25;   // per tool scored 92+ (A and above)
+const GOOD_BONUS    = 0.1;   // per tool scored 88-91 (A-)
 const PENALTY_PIVOT = 90;    // a floor at or above this costs nothing
-const PENALTY_RATE  = 0.5;   // cost per point the floor sits below the pivot
+const PENALTY_RATE  = 1;   // cost per point the floor sits below the pivot
 // A single weak tool used to be able to out-weigh five elite ones: at the old
 // uncapped 0.85 rate, five A's plus one C+ Chin scored a 72 — worse than a
 // build of six B+'s. That's the floor penalty doing its job (a real hole should

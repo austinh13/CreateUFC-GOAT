@@ -50,7 +50,7 @@ export const TOOL_META = {
 export const GRADES = ['S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D+', 'D'];
 
 export const GRADE_SCORE = {
-  S: 99, 'A+': 98, A: 93, 'A-': 90, 'B+': 86, B: 80, 'B-': 76,
+  S: 99, 'A+': 95, A: 93, 'A-': 90, 'B+': 86, B: 80, 'B-': 76,
   'C+': 69, C: 63, 'C-': 57, 'D+': 50, D: 42,
 };
 
