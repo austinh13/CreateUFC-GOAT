@@ -12,6 +12,21 @@ import { useEffect, useState } from 'react';
 
 const cache = new Map();
 
+// Wikipedia disambiguates these names, so the plain title has no infobox
+// image (or resolves to a different person's page). Point at the exact
+// title that carries the fighter's photo.
+const WIKI_TITLE_OVERRIDES = {
+  'Sean O’Malley': "Sean O'Malley (fighter)",
+  'Kyle Nelson': 'Kyle Nelson (fighter)',
+  'Jim Miller': 'Jim Miller (fighter)',
+  'Sean Brady': 'Sean Brady (fighter)',
+  'Robert Whittaker': 'Robert Whittaker (fighter)',
+  'Anthony Johnson': 'Anthony Johnson (fighter)',
+  'Johnny Walker': 'Johnny Walker (fighter)',
+  'Alexander Volkov': 'Alexander Volkov (fighter)',
+  'Viviane Araújo': 'Viviane Araújo (fighter)',
+};
+
 const PALETTE = ['#e5142e', '#4d9fff', '#f5b93a', '#24d07a', '#a855f7', '#43e5c8'];
 
 function colorFor(name) {
@@ -31,7 +46,7 @@ async function fetchHeadshot(name) {
   if (cache.has(name)) return cache.get(name);
   const promise = (async () => {
     try {
-      const title = encodeURIComponent(name.replace(/ /g, '_'));
+      const title = encodeURIComponent((WIKI_TITLE_OVERRIDES[name] ?? name).replace(/ /g, '_'));
       const res = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${title}`);
       if (!res.ok) return null;
       const data = await res.json();
